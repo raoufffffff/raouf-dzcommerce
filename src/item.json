@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "_id": "687e76dcbcd11fcbbb893b5d",
+    "userId": "687e6758f3512d25e3d8ceed",
+    "name": "just a test",
+    "sTitel": "",
+    "price": 3000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/vxKzXDCQ/Capture-d-cran-2025-04-19-055253.jpg",
+      "https://i.ibb.co/3YhxvND9/Capture-d-cran-2025-03-14-065435.jpg"
+    ],
+    "date": "2025-07-21T17:20:28.584Z",
+    "__v": 0
+  },
+  {
+    "_id": "687e7d1c403039b70d90903b",
+    "userId": "687e6758f3512d25e3d8ceed",
+    "name": "m",
+    "sTitel": "",
+    "price": 2000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/67v6vx9X/Screenshot-20250706-212344-Chrome.jpg"
+    ],
+    "date": "2025-07-21T17:47:08.645Z",
+    "__v": 0
+  },
+  {
+    "_id": "687ff6aee3e6cbd4d2169259",
+    "userId": "687e6758f3512d25e3d8ceed",
+    "name": "abderraouf hamoudi",
+    "sTitel": "anything",
+    "price": 3000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/67m5Wfqv/item-6-1.webp",
+      "https://i.ibb.co/k6rGDNtw/Screenshot-20250706-212340-Chrome.jpg"
+    ],
+    "lanImg": "https://i.ibb.co/KzmGFBHJ/1000027513.webp",
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-07-22T20:38:06.655Z",
+    "__v": 0
+  }
+]
