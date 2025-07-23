@@ -13,7 +13,7 @@
     ],
     "date": "2025-07-21T17:20:28.584Z",
     "__v": 0,
-    "visit": 2,
+    "visit": 9,
     "Fpixal": "1239232971135599"
   },
   {
@@ -25,12 +25,13 @@
     "best": true,
     "type": "",
     "imgs": [
-      "https://i.ibb.co/67v6vx9X/Screenshot-20250706-212344-Chrome.jpg"
+      "https://i.ibb.co/xtRQWxxC/images-removebg-preview.png"
     ],
     "date": "2025-07-21T17:47:08.645Z",
     "__v": 0,
     "visit": 2,
-    "Fpixal": "1239232971135599"
+    "Fpixal": "1239232971135599",
+    "lanImg": "https://i.ibb.co/G44hHKn6/s-l400-removebg-preview.png"
   },
   {
     "_id": "687ff6aee3e6cbd4d2169259",
@@ -41,11 +42,10 @@
     "best": true,
     "type": "",
     "imgs": [
-      "https://i.ibb.co/67m5Wfqv/item-6-1.webp",
-      "https://i.ibb.co/k6rGDNtw/Screenshot-20250706-212340-Chrome.jpg"
+      "https://i.ibb.co/nsSctBxr/d6ae2c84-8d9d-40af-8111-899f8febb0a0-removalai-preview.png"
     ],
-    "lanImg": "https://i.ibb.co/KzmGFBHJ/1000027513.webp",
-    "visit": 1,
+    "lanImg": "",
+    "visit": 10,
     "orders": 0,
     "date": "2025-07-22T20:38:06.655Z",
     "__v": 0,
