@@ -14,7 +14,7 @@
     ],
     "date": "2025-07-21T17:20:28.584Z",
     "__v": 0,
-    "visit": 9,
+    "visit": 11,
     "Fpixal": "1239232971135599",
     "lanImg": ""
   },
@@ -31,7 +31,7 @@
     ],
     "date": "2025-07-21T17:47:08.645Z",
     "__v": 0,
-    "visit": 7,
+    "visit": 8,
     "Fpixal": "1239232971135599",
     "lanImg": "https://i.ibb.co/G44hHKn6/s-l400-removebg-preview.png"
   },
@@ -47,10 +47,27 @@
       "https://i.ibb.co/nsSctBxr/d6ae2c84-8d9d-40af-8111-899f8febb0a0-removalai-preview.png"
     ],
     "lanImg": "",
-    "visit": 29,
+    "visit": 32,
     "orders": 0,
     "date": "2025-07-22T20:38:06.655Z",
     "__v": 0,
     "Fpixal": "1239232971135599"
+  },
+  {
+    "_id": "688064edaa71261b19a824d7",
+    "userId": "687e6758f3512d25e3d8ceed",
+    "name": "text",
+    "sTitel": "",
+    "price": 2900,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/QvDFHgD8/blob.webp"
+    ],
+    "lanImg": "",
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-07-23T04:28:29.044Z",
+    "__v": 0
   }
 ]
