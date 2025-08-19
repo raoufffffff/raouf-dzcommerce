@@ -14,44 +14,9 @@
     ],
     "date": "2025-07-21T17:20:28.584Z",
     "__v": 0,
-    "visit": 11,
+    "visit": 12,
     "Fpixal": "1239232971135599",
     "lanImg": ""
-  },
-  {
-    "_id": "687e7d1c403039b70d90903b",
-    "userId": "687e6758f3512d25e3d8ceed",
-    "name": "m",
-    "sTitel": "",
-    "price": 2000,
-    "best": true,
-    "type": "",
-    "imgs": [
-      "https://i.ibb.co/xtRQWxxC/images-removebg-preview.png"
-    ],
-    "date": "2025-07-21T17:47:08.645Z",
-    "__v": 0,
-    "visit": 8,
-    "Fpixal": "1239232971135599",
-    "lanImg": "https://i.ibb.co/G44hHKn6/s-l400-removebg-preview.png"
-  },
-  {
-    "_id": "687ff6aee3e6cbd4d2169259",
-    "userId": "687e6758f3512d25e3d8ceed",
-    "name": "abderraouf hamoudi",
-    "sTitel": "anything",
-    "price": 100000,
-    "best": true,
-    "type": "",
-    "imgs": [
-      "https://i.ibb.co/nsSctBxr/d6ae2c84-8d9d-40af-8111-899f8febb0a0-removalai-preview.png"
-    ],
-    "lanImg": "",
-    "visit": 32,
-    "orders": 0,
-    "date": "2025-07-22T20:38:06.655Z",
-    "__v": 0,
-    "Fpixal": "1239232971135599"
   },
   {
     "_id": "688064edaa71261b19a824d7",
@@ -65,7 +30,7 @@
       "https://i.ibb.co/QvDFHgD8/blob.webp"
     ],
     "lanImg": "",
-    "visit": 0,
+    "visit": 8,
     "orders": 0,
     "date": "2025-07-23T04:28:29.044Z",
     "__v": 0
