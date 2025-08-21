@@ -34,5 +34,22 @@
     "orders": 0,
     "date": "2025-07-23T04:28:29.044Z",
     "__v": 0
+  },
+  {
+    "_id": "68a74bee91a5ba096e8c85e1",
+    "userId": "687e6758f3512d25e3d8ceed",
+    "name": "PC hp ",
+    "sTitel": "",
+    "price": 30000,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/G30rQyqJ/blob.webp"
+    ],
+    "lanImg": "",
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-08-21T16:40:14.942Z",
+    "__v": 0
   }
 ]
