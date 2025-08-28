@@ -1,22 +1,28 @@
-import { Outlet } from 'react-router-dom'
-import Header from './components/haeder/Header'
-import Footer from './components/footer/Footer'
-import { useEffect } from 'react';
-import { initTikTokPixel } from './utility/tiktokPixel';
-import getData from './constans/getData';
+import { Outlet } from "react-router-dom"
+import Header from "./compunent/header/Header"
+import { useState } from "react"
+import Sidebar from "./compunent/header/Sidebar"
+import { AnimatePresence } from 'framer-motion';
+
 
 function App() {
-  const { tiktokP } = getData
-  useEffect(() => {
-    if (tiktokP) {
-      initTikTokPixel(tiktokP); // Replace with your real Pixel ID
-    }
-  }, []);
+  const [SemalHarder, setSemalHarder] = useState(true)
+  const togelHeader = () => setSemalHarder(p => !p)
+  const open = () => setSemalHarder(false)
   return (
-    <div dir='rtl'>
-      <Header />
-      <Outlet />
-      <Footer />
+    <div
+      className="min-h-screen w-full  flex justify-end"
+    >
+
+      <main
+        className={`relative  ${SemalHarder ? "w-full md:w-[91%] lg:w-[95%]" : "w-full md:w-9/12"} transition-all duration-200`}
+      >
+        <Header togelHeader={togelHeader} />
+        <AnimatePresence>
+          <Outlet />
+        </AnimatePresence>
+      </main>
+      <Sidebar open={open} togelHeader={togelHeader} SemalHarder={SemalHarder} />
     </div>
   )
 }
